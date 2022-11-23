@@ -1,14 +1,14 @@
 {
-  "title": "Aave",
-  "starts_at": "2022-09-15 15:00",
-  "ends_at": "2022-09-28 15:00",
-  "prize_pool": "80000",
-  "lead_senior_auditor_fixed_pay": "20000",
-  "short_description": "Aave is a lending market...",
-  "sponsor": "Aave",
-  "github_team": "aave",
-  "logo_url": "https://pbs.twimg.com/profile_images/1504129428204441601/B0G5SKbc_400x400.jpg",
+  "title": "NounsDAO",
+  "starts_at": "2022-11-28 15:00",
+  "ends_at": "2022-12-01 15:00",
+  "prize_pool": "10000",
+  "lead_senior_auditor_fixed_pay": "4000",
+  "short_description": "This project solves the problem of allowing payers of token streams to create streams and fund them after the fact, i.e. first create the stream, then fund it later when funds are available.",
+  "sponsor": "Nouns",
+  "github_team": "nouns",
+  "logo_url": "https://pbs.twimg.com/profile_images/1467601380567359498/oKcnQo_S_400x400.jpg",
   "private": false,
-  "lead_senior_auditor_handle": "handle",
-  "team_handles": []
+  "lead_senior_auditor_handle": null,
+  "team_handles": ["solimander", "eladmallel", "davidbrai"]
 }
