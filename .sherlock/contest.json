@@ -1,7 +1,7 @@
 {
   "title": "NounsDAO",
-  "starts_at": "2022-11-28 15:00",
-  "ends_at": "2022-12-01 15:00",
+  "starts_at": "2022-12-01 15:00",
+  "ends_at": "2022-12-04 15:00",
   "prize_pool": "10000",
   "lead_senior_auditor_fixed_pay": "4000",
   "short_description": "This project solves the problem of allowing payers of token streams to create streams and fund them after the fact, i.e. first create the stream, then fund it later when funds are available.",
