@@ -15,9 +15,6 @@
 
 # On-chain context
 
-Streamer hasn't been deployed to mainnet yet.
-While these contracts support any ERC20 contract, Nouns DAO will primarily use USDC.
-
 ```
 DEPLOYMENT: mainnet
 ERC20: USDC and WETH
